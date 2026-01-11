@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi there, I'm Yusuf! 👋
 
-<!--
-**yusuf740/yusuf740** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=I%20love%20working%2C%20and%20I'm%20always%20hungry%20for%20new%20challenges.&author=Yusuf" alt="Quote" />
+</p>
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🎓 **Computer Engineering Student**
+- 🚀 Passionate about technology and building impactful solutions.
+- 🧠 Deeply interested in **Machine Learning**, **Computer Vision**, and **NLP**.
+- 📊 Exploring the depths of **Data Science** to uncover meaningful insights.
+- ⚡ I believe in continuous learning and pushing boundaries every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills & Technologies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-008080?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Science-20BEFF?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yusuf740&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusuf740&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yusuf740&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📫 Connect with Me
+<p align="left">
+<a href="www.linkedin.com/in/yusuf-ibin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yusuf LinkedIn" height="30" width="40" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yusuf740&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+</p>
