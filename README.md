@@ -11,7 +11,7 @@ I am a Computer Engineering student who is deeply passionate about technology an
 
 ---
 
-### 🛠️ Skills & Technologies
+### Skills & Technologies
 
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -20,11 +20,13 @@ I am a Computer Engineering student who is deeply passionate about technology an
   <br>
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-008080?style=for-the-badge&logo=huggingface&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Science-20BEFF?style=for-the-badge&logo=pandas&logoColor=white" />
+  <a href="https://huggingface.co/jsph14" target="_blank">
+    <img src="https://img.shields.io/badge/NLP-008080?style=for-the-badge&logo=huggingface&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/yusufibin" target="_blank">
+    <img src="https://img.shields.io/badge/Data%20Science-20BEFF?style=for-the-badge&logo=pandas&logoColor=white" />
+  </a>
 </p>
-
----
 
 ### 📊 GitHub Stats
 
