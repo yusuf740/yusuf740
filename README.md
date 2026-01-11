@@ -14,9 +14,15 @@ I am a Computer Engineering student who is deeply passionate about technology an
 ### Skills & Technologies
 
 <p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  </a>
+  <a href="https://en.cppreference.com/w/c" target="_blank">
+    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  </a>
   <br>
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
@@ -27,7 +33,6 @@ I am a Computer Engineering student who is deeply passionate about technology an
     <img src="https://img.shields.io/badge/Data%20Science-20BEFF?style=for-the-badge&logo=pandas&logoColor=white" />
   </a>
 </p>
-
 ### 📊 GitHub Stats
 
 <p align="center">
