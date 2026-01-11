@@ -33,18 +33,21 @@ I am a Computer Engineering student who is deeply passionate about technology an
     <img src="https://img.shields.io/badge/Data%20Science-20BEFF?style=for-the-badge&logo=pandas&logoColor=white" />
   </a>
 </p>
+
 ---
-### GitHub Stats
+
+### GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yusuf740&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusuf740&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yusuf740&show_icons=true&theme=tokyonight" alt="Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yusuf740&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yusuf740&theme=tokyonight" alt="Streak" />
 </p>
+
 ---
+
 ### Connect with Me
 <a href="https://www.linkedin.com/in/yusuf-ibin" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
