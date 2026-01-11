@@ -1,15 +1,13 @@
-# Hi there, I'm Yusuf! 👋
+# wassap, I'm Yusuf
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=I%20love%20working%2C%20and%20I'm%20always%20hungry%20for%20new%20challenges.&author=Yusuf" alt="Quote" />
-</p>
+I am a Computer Engineering student who is deeply passionate about technology and constantly driven by a hunger for learning. I love tackling complex problems, working on innovative projects, and pushing my boundaries to master new skills every day.
 
-### 👨‍💻 About Me
-- 🎓 **Computer Engineering Student**
-- 🚀 Passionate about technology and building impactful solutions.
-- 🧠 Deeply interested in **Machine Learning**, **Computer Vision**, and **NLP**.
-- 📊 Exploring the depths of **Data Science** to uncover meaningful insights.
-- ⚡ I believe in continuous learning and pushing boundaries every day.
+### About Me
+- Computer Engineering Student
+- Passionate about technology and building impactful solutions.
+- Deeply interested in Machine Learning, Computer Vision, and NLP.
+- Exploring the depths of Data Science to uncover meaningful insights.
+- Committed to continuous learning and professional growth.
 
 ---
 
