@@ -33,7 +33,7 @@ I am a Computer Engineering student who is deeply passionate about technology an
     <img src="https://img.shields.io/badge/Data%20Science-20BEFF?style=for-the-badge&logo=pandas&logoColor=white" />
   </a>
 </p>
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yusuf740&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
@@ -46,10 +46,10 @@ I am a Computer Engineering student who is deeply passionate about technology an
 
 ---
 
-### 📫 Connect with Me
-<p align="left">
-<a href="www.linkedin.com/in/yusuf-ibin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yusuf LinkedIn" height="30" width="40" /></a>
-</p>
+### Connect with Me
+<a href="https://www.linkedin.com/in/yusuf-ibin" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 ---
 
