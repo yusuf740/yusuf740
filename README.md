@@ -25,7 +25,7 @@
   Computer Engineering student at <b>Yildiz Technical University (YTU)</b>.<br/>
   I lead <b><a href="https://airlab.yildizskylab.com">AIRLAB</a></b> — YTU's student AI research lab — where we build open-source tools, run bootcamps, and compete globally.<br/>
   I'm also a junior member of <b><a href="https://cosmos.yildiz.edu.tr">Cosmos NLP Group</a></b>, a university research lab behind models like
-  <a href="https://huggingface.co/ytu-ce-cosmos">T1, E5, and ModernBERT-TR</a>,
+  <a href="https://huggingface.co/ytu-ce-cosmos">Turkish-Gemma T1, Turkish E5, and ModernBERT-TR</a>,
   focused on advancing Turkish language technology. I'm still growing into the research culture there, but it's where I do my most serious NLP work.<br/>
   My focus: Turkish NLP, skeleton-based computer vision, and deep learning architectures — places where the Turkish AI ecosystem still has real gaps.
 </p>
