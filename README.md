@@ -1,16 +1,16 @@
 <!-- ═══════════════════════════════════════════════════════════════ HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yusuf%20%C4%B0bin&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20Researcher%20%7C%20AIRLAB%20Lead%20%7C%20YT%C3%9C%20Computer%20Engineering&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yusuf%20%C4%B0bin&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20Researcher%20%7C%20AIRLAB%20Lead%20%7C%20YTU%20Computer%20Engineering&descAlignY=58&descSize=17" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=700&lines=Turkish+NLP+%26+LLM+Researcher;Skeleton-Based+Computer+Vision;AIRLAB+Team+Lead+%40+YT%C3%9C;Deep+Learning+Architect+(GCN+%7C+BERT+%7C+Attention);Building+what+doesn't+exist+in+Turkish+AI+yet." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=700&lines=Turkish+NLP+%26+LLM+Researcher;Skeleton-Based+Computer+Vision;AIRLAB+Team+Lead+%40+YTU;Deep+Learning+Architect+(GCN+%7C+BERT+%7C+Attention);Building+what+doesn't+exist+in+Turkish+AI+yet." alt="Typing SVG" />
 </p>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ BIO -->
 <p align="center">
-  <img src="https://img.shields.io/badge/YT%C3%9C-Computer%20Engineering-7AA2F7?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YTU-Computer%20Engineering-7AA2F7?style=flat-square&logoColor=white"/>
   &nbsp;
   <a href="https://airlab.yildizskylab.com">
     <img src="https://img.shields.io/badge/AIRLAB-Team%20Lead-BB9AF7?style=flat-square&logoColor=white"/>
@@ -22,10 +22,11 @@
 </p>
 
 <p align="center">
-  Computer Engineering student at <b>Yıldız Technical University</b>.<br/>
-  I lead <b><a href="https://airlab.yildizskylab.com">AIRLAB</a></b> — YTÜ's student AI research lab — where we build open-source tools, run bootcamps, and compete globally.<br/>
-  I also recently joined <b><a href="https://cosmos.yildiz.edu.tr">Cosmos NLP Group</a></b>, a serious research group working on Turkish LLMs — still finding my footing there, but learning fast.<br/>
-  My focus: Turkish NLP, skeleton-based computer vision, and deep learning architectures — places where the Turkish AI ecosystem still has gaps.
+  Computer Engineering student at <b>Yildiz Technical University (YTU)</b>.<br/>
+  I lead <b><a href="https://airlab.yildizskylab.com">AIRLAB</a></b> — YTU's student AI research lab — where we build open-source tools, run bootcamps, and compete globally.<br/>
+  I'm also a junior member of <b><a href="https://cosmos.yildiz.edu.tr">Cosmos NLP Group</a></b>, a university research lab behind models like CosmosGemma and CosmosGPT,
+  focused on advancing Turkish language technology. I'm still growing into the research culture there, but it's where I do my most serious NLP work.<br/>
+  My focus: Turkish NLP, skeleton-based computer vision, and deep learning architectures — places where the Turkish AI ecosystem still has real gaps.
 </p>
 
 <br/>
