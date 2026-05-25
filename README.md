@@ -1,37 +1,65 @@
-# wassap, I'm Yusuf
+# Hi, I'm Yusuf 👋
 
-I am a Computer Engineering student who is deeply passionate about technology and constantly driven by a hunger for learning. I love tackling complex problems, working on innovative projects, and pushing my boundaries to master new skills every day.
+Computer Engineering student at **Yıldız Technical University**, team lead of **AIRLAB** (AI Research Lab), and a member of the **Cosmos Research Team**. I'm drawn to problems where language, vision, and deep learning overlap — especially in Turkish, where the field still has a lot of ground to cover.
 
-### About Me
-- Computer Engineering Student
-- Passionate about technology and building impactful solutions.
-- Deeply interested in Machine Learning, Computer Vision, and NLP.
-- Exploring the depths of Data Science to uncover meaningful insights.
-- Committed to continuous learning and professional growth.
+I spend most of my time doing research, building systems that push the state of the art, and leading a team of engineers doing the same.
+
+---
+
+### What I Work On
+
+```
+Turkish NLP & LLM Evaluation    →  language models, fine-tuning, benchmark design
+Computer Vision                 →  skeleton-based action recognition, graph networks
+Deep Learning Architectures     →  GCNs, BERT variants, attention mechanisms
+Speech & Voice                  →  TTS fine-tuning, STT, end-to-end voice pipelines
+Retrieval-Augmented Systems     →  RAG pipelines, vector stores, local LLM deployments
+```
 
 ---
 
 ### Skills & Technologies
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  </a>
-  <a href="https://en.cppreference.com/w/c" target="_blank">
-    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  </a>
-  <br>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <a href="https://huggingface.co/jsph14" target="_blank">
-    <img src="https://img.shields.io/badge/NLP-008080?style=for-the-badge&logo=huggingface&logoColor=white" />
-  </a>
-  <a href="https://www.kaggle.com/yusufibin" target="_blank">
-    <img src="https://img.shields.io/badge/Data%20Science-20BEFF?style=for-the-badge&logo=pandas&logoColor=white" />
-  </a>
+**Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+
+**ML / DL**
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
+
+**Computer Vision & Speech**
+
+<p>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/XTTS--v2-FF6B6B?style=for-the-badge&logoColor=white" />
+</p>
+
+**LLM & RAG**
+
+<p>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+</p>
+
+**Tools & Cloud**
+
+<p>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
@@ -48,9 +76,18 @@ I am a Computer Engineering student who is deeply passionate about technology an
 
 ---
 
-### Connect with Me
+### Connect
+
 <a href="https://www.linkedin.com/in/yusuf-ibin" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://huggingface.co/jsph14" target="_blank">
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</a>
+&nbsp;
+<a href="https://www.kaggle.com/yusufibin" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
 </a>
 
 ---
