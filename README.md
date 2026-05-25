@@ -12,15 +12,20 @@
 <p align="center">
   <img src="https://img.shields.io/badge/YT%C3%9C-Computer%20Engineering-7AA2F7?style=flat-square&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/AIRLAB-Team%20Lead-BB9AF7?style=flat-square&logoColor=white"/>
+  <a href="https://airlab.yildizskylab.com">
+    <img src="https://img.shields.io/badge/AIRLAB-Team%20Lead-BB9AF7?style=flat-square&logoColor=white"/>
+  </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Cosmos-Research%20Team-9ECE6A?style=flat-square&logoColor=white"/>
+  <a href="https://cosmos.yildiz.edu.tr">
+    <img src="https://img.shields.io/badge/Cosmos%20NLP-Member-9ECE6A?style=flat-square&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
-  Computer Engineering student at <b>Yıldız Technical University</b> — team lead of <b>AIRLAB</b> and member of the <b>Cosmos Research Team</b>.<br/>
-  I work at the intersection of Turkish NLP, computer vision, and deep learning — on problems where good solutions don't exist in Turkish yet.<br/>
-  My days are split between research, designing novel architectures, and leading a team of engineers doing the same.
+  Computer Engineering student at <b>Yıldız Technical University</b>.<br/>
+  I lead <b><a href="https://airlab.yildizskylab.com">AIRLAB</a></b> — YTÜ's student AI research lab — where we build open-source tools, run bootcamps, and compete globally.<br/>
+  I also recently joined <b><a href="https://cosmos.yildiz.edu.tr">Cosmos NLP Group</a></b>, a serious research group working on Turkish LLMs — still finding my footing there, but learning fast.<br/>
+  My focus: Turkish NLP, skeleton-based computer vision, and deep learning architectures — places where the Turkish AI ecosystem still has gaps.
 </p>
 
 <br/>
