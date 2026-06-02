@@ -23,7 +23,7 @@
 
 <p align="center">
   Computer Engineering student at <b>Yildiz Technical University (YTU)</b>.<br/>
-  I'm a generalist across AI and computer science — comfortable everywhere from classical regression and classifiers
+  I'm a generalist across AI and computer science ,comfortable everywhere from classical regression and classifiers
   to deep learning architectures (RNN, LSTM, CNN, GCN), from computer vision to NLP, with data analysis &amp; engineering on top.
   Lately I've been focused on <b>Turkish NLP</b>, and I work hands-on with modern AI approaches like <b>agentic workflows</b> and <b>RAG</b>.<br/>
   I lead <b><a href="https://airlab.yildizskylab.com">AIRLAB</a></b> — YTU's student AI research lab — where we build open-source tools, run bootcamps, and compete globally.<br/>
