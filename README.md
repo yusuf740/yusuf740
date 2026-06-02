@@ -3,7 +3,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=700&lines=Turkish+NLP+%26+LLM+Researcher;Skeleton-Based+Computer+Vision;AIRLAB+Team+Lead+%40+YTU;Deep+Learning+Architect+(GCN+%7C+BERT+%7C+Attention);Building+what+doesn't+exist+in+Turkish+AI+yet." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=700&lines=Turkish+NLP+%26+LLM+Researcher;AI+Generalist%3A+From+Regression+to+RAG;Deep+Learning+(RNN+%7C+LSTM+%7C+CNN+%7C+GCN);Skeleton-Based+Computer+Vision;Agentic+Workflows+%26+RAG+Systems;AIRLAB+Team+Lead+%40+YTU;Building+what+doesn't+exist+in+Turkish+AI+yet." alt="Typing SVG" />
 </p>
 
 <br/>
@@ -23,11 +23,14 @@
 
 <p align="center">
   Computer Engineering student at <b>Yildiz Technical University (YTU)</b>.<br/>
+  I'm a generalist across AI and computer science — comfortable everywhere from classical regression and classifiers
+  to deep learning architectures (RNN, LSTM, CNN, GCN), from computer vision to NLP, with data analysis &amp; engineering on top.
+  Lately I've been focused on <b>Turkish NLP</b>, and I work hands-on with modern AI approaches like <b>agentic workflows</b> and <b>RAG</b>.<br/>
   I lead <b><a href="https://airlab.yildizskylab.com">AIRLAB</a></b> — YTU's student AI research lab — where we build open-source tools, run bootcamps, and compete globally.<br/>
   I'm also a junior member of <b><a href="https://cosmos.yildiz.edu.tr">Cosmos NLP Group</a></b>, a university research lab behind models like
   <a href="https://huggingface.co/ytu-ce-cosmos">Turkish-Gemma T1, Turkish E5, and ModernBERT-TR</a>,
   focused on advancing Turkish language technology. I'm still growing into the research culture there, but it's where I do my most serious NLP work.<br/>
-  My focus: Turkish NLP, skeleton-based computer vision, and deep learning architectures — places where the Turkish AI ecosystem still has real gaps.
+  A computer engineering foundation (C/Java, hardware fundamentals) backs all of it. My focus: places where the Turkish AI ecosystem still has real gaps.
 </p>
 
 <br/>
@@ -40,10 +43,11 @@
 ```python
 domains = {
     "Turkish NLP & LLM"       : "language model fine-tuning · LLM evaluation · Turkish benchmark design",
+    "Deep Learning"           : "RNN · LSTM · CNN · GCN · attention mechanisms",
     "Computer Vision"         : "skeleton-based action recognition · graph neural networks",
-    "Deep Learning"           : "GCN architectures · BERT variants · attention mechanisms",
+    "Classical ML & Data"     : "regression · classification · data analysis & data engineering",
+    "Agentic AI & RAG"        : "agentic workflows · retrieval-augmented generation · local LLMs",
     "Speech & Voice"          : "TTS fine-tuning · STT pipelines · end-to-end voice systems",
-    "RAG & Local LLMs"        : "retrieval-augmented generation · vector stores · local LLM deployments",
 }
 ```
 
@@ -111,7 +115,7 @@ domains = {
   </a>
 </p>
 
-**LLM & RAG**
+**LLM, RAG & Agents**
 <p>
   <a href="https://ollama.com">
     <img src="https://img.shields.io/badge/Ollama-1a1a2e?style=for-the-badge&logoColor=white"/>
